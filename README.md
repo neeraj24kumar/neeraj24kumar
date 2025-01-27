@@ -2,7 +2,7 @@
 ## Hi 👋 I'm Neerajkumar Gupta
 
 # 💫 About Me
-🔭 I’m currently working on Enhancing my skills in AI/ML and web development.  <br>👯 I’m looking to collaborate on Creative design projects and innovative AI solutions.  <br>🤝 I’m looking for help with Learning and developing advanced AI techniques.  <br>🌱 I’m currently Pursuing MSc (IT) at SIES.  <br>💬 Creative design, web development, and AI trends.  <br>⚡ I love blending art with technology to create unique projects!
+🔭 I’m currently working on Enhancing my skills in AI/ML and web development.  <br>👯 I’m looking to collaborate on Creative design projects and innovative AI solutions.  <br>🤝 I’m looking for help with Learning and developing advanced AI techniques.  <br>🌱 I’m currently Pursuing MSc (IT) at SIES.  <br>💬 Creative design, web development, and AI trends.  <br>⚡ I love blending art with technology to create unique projects! <br> 📫 Reach me out: neerajfosure@gmail.com
 
 
 ## 🌐 Socials
