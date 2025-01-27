@@ -14,6 +14,7 @@
 ## 📌 Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=neeraj24kumar&theme=highcontrast)](https://github.com/neeraj24kumar/top-repo-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=neeraj24kumar&theme=highcontrast)](https://github.com/neeraj24kumar/top-repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=github-readme-stats)](https://github.com/neeraj24kumar/github-readme-stats)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
