@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/neeraj24kumar/neeraj24kumar/blob/main/Blue%20Minimalist%20Graphic%20Designer%20LinkedIn%20Banner.png)
 ## Hi 👋 I'm Neerajkumar Gupta
 
 # 💫 About Me:
