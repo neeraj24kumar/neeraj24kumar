@@ -20,7 +20,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neeraj24kumar&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=neeraj24kumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
