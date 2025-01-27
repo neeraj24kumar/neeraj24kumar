@@ -13,7 +13,6 @@
 
 ## 📌 Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Computer-Vision-Techniques-with-Ultralytics-YOLO&theme=highcontrast)](https://github.com/neeraj24kumar/Computer-Vision-Techniques-with-Ultralytics-YOLO)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Gesture-Controlled-Media-Player-MediaPipe&theme=highcontrast)](https://github.com/neeraj24kumar/Gesture-Controlled-Media-Player-MediaPipe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Air-Canvas-MediaPipe&theme=highcontrast)](https://github.com/neeraj24kumar/Air-Canvas-MediaPipe)
