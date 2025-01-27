@@ -13,12 +13,12 @@
 
 ## 📌 Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Computer-Vision-Techniques-with-Ultralytics-YOLO&theme=tokyonight)](https://github.com/neeraj24kumar/Computer-Vision-Techniques-with-Ultralytics-YOLO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Gesture-Controlled-Media-Player-MediaPipe&theme=highcontrast)](https://github.com/neeraj24kumar/Gesture-Controlled-Media-Player-MediaPipe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Air-Canvas-MediaPipe&theme=highcontrast)](https://github.com/neeraj24kumar/Air-Canvas-MediaPipe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=NLP-for-Devnagari&theme=highcontrast)](https://github.com/neeraj24kumar/NLP-for-Devnagari)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Gesture-Controlled-Media-Player-MediaPipe&theme=tokyonight)](https://github.com/neeraj24kumar/Gesture-Controlled-Media-Player-MediaPipe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=Air-Canvas-MediaPipe&theme=tokyonight)](https://github.com/neeraj24kumar/Air-Canvas-MediaPipe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=NLP-for-Devnagari&theme=tokyonight)](https://github.com/neeraj24kumar/NLP-for-Devnagari)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neeraj24kumar&theme=merko&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj24kumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
