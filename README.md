@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=neeraj24kumar&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neeraj24kumar&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj24kumar&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
