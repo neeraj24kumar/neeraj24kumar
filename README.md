@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="neeraj24kumar's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="neeraj24kumar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="neeraj24kumar's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="neeraj24kumar's GitHub Stats" />
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=neeraj24kumar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
