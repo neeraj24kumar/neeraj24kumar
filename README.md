@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj24kumar&repo=NLP-for-Devnagari&theme=merko)](https://github.com/neeraj24kumar/NLP-for-Devnagari)
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true
+<img src="https://github-readme-stats.vercel.app/api?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="neeraj24kumar's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj24kumar&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="neeraj24kumar's GitHub Stats" />
 
 ## 🏆 GitHub Trophies
